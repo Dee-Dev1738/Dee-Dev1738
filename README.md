@@ -7,9 +7,8 @@
 - 🌱 On my own time, I'm also learning about Smart contracts, NFTs, and React.js and  more blockchain related topic.
 - 📫 You could reach me by my Email me at dwight.l.hill@outlook.com.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-dev1738&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Dee-Dev1738)
 <!---
 Dee-Dev1738/Dee-Dev1738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
