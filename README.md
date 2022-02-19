@@ -1,3 +1,6 @@
+![Untitled Photo](https://user-images.githubusercontent.com/83855447/154810464-e9b8b6ef-e692-4daa-8ce8-2b8496afc1ad.png)
+
+
 - 👋 Hi, I’m Dwight Hill. I'm currently transitioning out of the Military and breaking in to be a developer.
 - 👀 I’m interested in being a Blockchain Developer. 
 - 🌱 I’m currently learning about Smart contracts, NFTs, and Hyperledger Fabric.
