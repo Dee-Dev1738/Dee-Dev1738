@@ -7,6 +7,12 @@
 - 🌱 On my own time, I'm also learning about **Smart contracts**, **NFTs**, and **React.js** and  more blockchain related topic.
 - 📫 You could reach me by my Email me at dwight.l.hill@outlook.com.
 
+##Skills and Experience
+* 💻 HTML, CSS, JS, C#, Soldity
+* 📈  Hyperledger Fabric Administrater
+* 💰 Truffle, HardHat, Web3.js
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-dev1738&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
