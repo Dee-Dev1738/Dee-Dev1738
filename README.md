@@ -1,4 +1,5 @@
-![Untitled Photo](https://user-images.githubusercontent.com/83855447/154810464-e9b8b6ef-e692-4daa-8ce8-2b8496afc1ad.png)
+
+![Untitled Photo](https://user-images.githubusercontent.com/83855447/154810562-0b5e0f03-64da-418b-aa03-ee7eec73b82f.png)
 
 
 - 👋 Hi, I’m Dwight Hill. I'm currently transitioning out of the Military and breaking in to be a developer.
