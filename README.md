@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m Dwight
-![Untitled Photo](https://user-images.githubusercontent.com/83855447/154810562-0b5e0f03-64da-418b-aa03-ee7eec73b82f.png)
+![Untitled Photo](https://app.picmaker.com/design/bJnErtHsyYMNndu8/)
+
 
 ## 
 👋 Hi, I’m Dwight Hill. I'm currently transitioning out of the Military and breaking into Software and Blockchain Devleopment.
